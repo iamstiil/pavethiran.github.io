@@ -1,0 +1,25 @@
+{
+  "name": "pavethiran.github.io",
+  "version": "1.0.0",
+  "description": "Website of Pavithran Gridharan",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavethiran/pavethiran.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "cv",
+    "curriculum",
+    "vitae"
+  ],
+  "author": "Pavithran Gridharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavethiran/pavethiran.github.io/issues"
+  },
+  "homepage": "https://github.com/pavethiran/pavethiran.github.io"
+}
